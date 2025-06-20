@@ -7,7 +7,7 @@
 
 ## What you'll find here
 
-This is where I experiment, build, and break things. My repositories range from research prototypes to production-ready systems, with a focus on AI/ML applications that solve real problems.
+This is where I experiment, build, and break things. My repositories range from research prototypes to production-ready systems, with a focus on AI/ML applications.
 
 **Currently obsessed with:**
 - Meta-learning and adaptive systems
