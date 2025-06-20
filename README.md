@@ -21,6 +21,7 @@ This is where I experiment, build, and break things. My repositories range from 
 **[MATRIX](https://github.com/mabhi02/MATRIX)** - Thompson sampling meets reinforcement learning in high-dimensional spaces  
 **[Time Machine](https://github.com/The-Time-Machine1/main)** - Code evolution analysis system  
 **[DeepFake Detection](https://github.com/mabhi02/Info290T-Deepfake-Detection)** - Computer vision system for detecting AI-generated content using advanced models  
+**[Drone Detection CV](https://github.com/mabhi02/Drone-Detection-CV)** - Computer vision system for real-time drone detection and classification  
 **[EECS 194: SQL Mastery Learning](https://drive.google.com/file/d/1ODbg4BxziHaXQ7azmzGDbWcj5BsBqXPX/view?usp=sharing)** - Interactive visualizations for database concepts (used in Berkeley courses)  
 **[ChatCHW](https://github.com/mabhi02/ChatCHW)** - RAG-powered chatbot system for community health applications
 
