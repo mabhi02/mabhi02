@@ -27,9 +27,9 @@ This is where I experiment, build, and break things. My repositories range from 
 ## Focus Areas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Meta--Learning%20%7C%20RAG%20Systems%20%7C%20Computer%20Vision-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Research-Reasoning%20Models%20%7C%20Thompson%20Sampling-green?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Applications-Healthcare%20%7C%20Education%20%7C%20Fintech-purple?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhi02&repo=MATRIX&theme=tokyonight&hide_border=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhi02&repo=Info290T-Deepfake-Detection&theme=tokyonight&hide_border=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhi02&repo=ChatCHW&theme=tokyonight&hide_border=true"/>
 </div>  
 
 ## My approach
