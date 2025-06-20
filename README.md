@@ -41,9 +41,10 @@ I believe in building things that actually work. Most of my projects start as so
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabhi02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabhi02&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabhi02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabhi02&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ## Want to collaborate?
 
