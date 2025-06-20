@@ -24,14 +24,6 @@ This is where I experiment, build, and break things. My repositories range from 
 **[EECS 194: SQL Mastery Learning](https://drive.google.com/file/d/1ODbg4BxziHaXQ7azmzGDbWcj5BsBqXPX/view?usp=sharing)** - Interactive visualizations for database concepts (used in Berkeley courses)  
 **[ChatCHW](https://github.com/mabhi02/ChatCHW)** - RAG-powered chatbot system for community health applications
 
-## Focus Areas
-
-<div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhi02&repo=MATRIX&theme=tokyonight&hide_border=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhi02&repo=Info290T-Deepfake-Detection&theme=tokyonight&hide_border=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhi02&repo=ChatCHW&theme=tokyonight&hide_border=true"/>
-</div>  
-
 ## My approach
 
 I believe in building things that actually work. Most of my projects start as solutions to problems I'm facing in research or real applications, then evolve into more generalizable systems.
