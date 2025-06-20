@@ -17,7 +17,7 @@ This is where I experiment, build, and break things. My repositories range from 
 
 ## Recent builds
 
-**[AVM-CORE]([https://drive.google.com/file/d/1Tthkmz0aMIcVs_6fwQNNUyGvt4y5vxb4/view](https://github.com/mabhi02/avm-core))** - Adaptive Validation Model w/ COmpositional REasoning (avm-core)  
+**[AVM-CORE](https://github.com/mabhi02/avm-core)** - Adaptive Validation Model w/ COmpositional REasoning (avm-core)  
 **[MATRIX](https://github.com/mabhi02/MATRIX)** - Thompson sampling meets reinforcement learning in high-dimensional spaces  
 **[Time Machine](https://github.com/The-Time-Machine1/main)** - Code evolution analysis system  
 **[DeepFake Detection](https://github.com/mabhi02/Info290T-Deepfake-Detection)** - Computer vision system for detecting AI-generated content using advanced models  
