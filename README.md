@@ -17,12 +17,20 @@ This is where I experiment, build, and break things. My repositories range from 
 
 ## Recent builds
 
-**[AVM-CORE](https://drive.google.com/file/d/1Tthkmz0aMIcVs_6fwQNNUyGvt4y5vxb4/view)** - Adaptive Validation Model w/ COmpositional REasoning framework combining meta-learning with compositional reasoning  
+**[AVM-CORE](https://drive.google.com/file/d/1Tthkmz0aMIcVs_6fwQNNUyGvt4y5vxb4/view)** - Adaptive Validation Model w/ COmpositional REasoning (avm-core)  
 **[MATRIX](https://github.com/mabhi02/MATRIX)** - Thompson sampling meets reinforcement learning in high-dimensional spaces  
+**[Time Machine](https://github.com/The-Time-Machine1/main)** - Code evolution analysis system  
 **[DeepFake Detection](https://github.com/mabhi02/Info290T-Deepfake-Detection)** - Computer vision system for detecting AI-generated content using advanced models  
 **[EECS 194: SQL Mastery Learning](https://drive.google.com/file/d/1ODbg4BxziHaXQ7azmzGDbWcj5BsBqXPX/view?usp=sharing)** - Interactive visualizations for database concepts (used in Berkeley courses)  
-**[ChatCHW](https://github.com/mabhi02/ChatCHW)** - RAG-powered chatbot system for community health applications  
-**Email Intelligence** - Chrome extension that learns your writing style  
+**[ChatCHW](https://github.com/mabhi02/ChatCHW)** - RAG-powered chatbot system for community health applications
+
+## Focus Areas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Meta--Learning%20%7C%20RAG%20Systems%20%7C%20Computer%20Vision-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Research-Reasoning%20Models%20%7C%20Thompson%20Sampling-green?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Applications-Healthcare%20%7C%20Education%20%7C%20Fintech-purple?style=for-the-badge&logo=rocket&logoColor=white"/>
+</div>  
 
 ## My approach
 
@@ -38,13 +46,6 @@ I believe in building things that actually work. Most of my projects start as so
 - Building better vector databases from scratch
 - Exploring multi-agent systems for collaborative reasoning
 - Optimizing models for edge deployment
-
-## GitHub Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabhi02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabhi02&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 ## Want to collaborate?
 
